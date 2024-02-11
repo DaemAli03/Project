@@ -1,0 +1,50 @@
+.img{
+    height: 8vh;
+}
+.me-auto{
+    margin-left: 250px;
+    gap: 20px;
+}
+.me-auto hr{
+    border: none;
+    height: 3px;
+    border-radius: 10px;
+    background: red;
+}
+.logo hr{
+    border: none;
+    height: 3px;
+    width: 50px;
+    margin-left: 42px;
+    border-radius: 10px;
+    background: red;
+}
+.login-logo{
+    display: flex;
+}
+.login-logo Button{
+    margin-top: 10px;
+    height: 48px;
+    width: 110px;
+    border-radius: 20px;
+    color: green;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+.login-logo Button:hover{
+    opacity: .8;
+    background-color: lightgreen;
+    color: black;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 9vh;
+    margin-left: 10px;
+}
+.cart-logo{
+    list-style: none;
+    cursor: pointer;
+}

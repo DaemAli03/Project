@@ -1,0 +1,22 @@
+.text-1{
+    background-image: url('../Assets/Img001.jpg');
+    height: 450px;
+    filter: brightness(0.9);
+}
+.text-01{
+    padding-top: 150px;
+    margin-left: 500px;
+    
+}
+.text-01 h1{
+    margin-left: 100px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.text-01 p{
+    margin-top: 15px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

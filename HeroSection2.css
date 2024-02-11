@@ -1,0 +1,46 @@
+.col-12{
+    background-image: url('../Assets/bg_3.jpg');
+    filter: brightness(0.8);
+    margin-top: 70px;
+    height: 350px;
+}
+.t1{
+    padding-top: 150px;
+    margin-left: 700px;
+}
+.t1 h1{
+    font-size: 50px;
+}
+.t1 p{
+    font-size: 20px;
+}
+.t2{
+    padding-top: 150px;
+    margin-left: 30px;
+}
+.t2 h1{
+    font-size: 50px;
+}
+.t2 p{
+    font-size: 20px;
+}
+.t3{
+    padding-top: 150px;
+    margin-left: 30px;
+}
+.t3 h1{
+    font-size: 50px;
+}
+.t3 p{
+    font-size: 20px;
+}
+.t4{
+    padding-top: 150px;
+    margin-left: 30px;
+}
+.t4 h1{
+    font-size: 50px;
+}
+.t4 p{
+    font-size: 20px;
+}

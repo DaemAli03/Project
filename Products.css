@@ -1,0 +1,19 @@
+.Desc{
+    text-align: center;
+    margin-top: 100px;
+}
+.Desc h3{
+    font-size: 30px;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Desc h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.Desc p{
+    margin-top: 25px;
+    font-size: 20px;
+    opacity: .8;
+}
